@@ -18,6 +18,9 @@ See https://github.com/gregoriohc/laravel-nova-theme-responsive
 - [Gregorio Hernández Caso](https://github.com/gregoriohc)
 - [Marshmallow Packages](https://github.com/marshmallow-packages)
 
+## Buy me a coffe
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/laravelwebdev)
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
