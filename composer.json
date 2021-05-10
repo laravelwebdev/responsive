@@ -1,0 +1,42 @@
+{
+  "name": "laravelwebdev/responsive",
+  "version": "v1.0.0",
+  "type": "library",
+  "description": "A Responsive Laravel Nova  Theme based on 'A Responsive Laravel Nova theme'.",
+  "keywords": [
+    "Laravel Nova Theme",
+    "Dark Theme",
+    "laravel",
+    "nova",
+    "Responsive Laravel Nova Theme"
+  ],
+  "homepage": "https://github.com/laravelwebdev/responsive",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Muhlis Abdi",
+      "email": "muhlisabdi@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1|^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Laravelwebdev\\Responsive\\": "src"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Laravelwebdev\\Responsive\\ThemeServiceProvider"
+      ]
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
