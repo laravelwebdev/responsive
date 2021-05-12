@@ -9,8 +9,6 @@ use Illuminate\Support\ServiceProvider;
 class ThemeServiceProvider extends ServiceProvider
 {
     const NOVA_VIEWS_PATH = __DIR__ . '/../resources/views';
-    const CSS_PATH = __DIR__ . '/../resources/css';
-    const JS_PATH = __DIR__ . '/../resources/js';
     const CONFIG_FILE = __DIR__ . '/../config/responsive.php';
 
     /**
